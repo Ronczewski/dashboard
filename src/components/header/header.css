@@ -1,0 +1,41 @@
+.buttons {
+   text-decoration: none;
+   color: rgb(218, 209, 209);
+   margin: 0 15px;
+   
+}
+
+.buttons:hover {
+   color: black;
+   text-decoration: underline;
+   text-underline-offset: 12px;
+}
+
+
+.menu {
+   text-decoration: none;
+   color: rgb(114, 111, 109);
+}
+
+.menu:hover {
+   text-decoration: none;
+   color:black;
+}
+
+
+/* 
+a {
+   text-decoration: none;
+   position: relative;
+}
+a:after {
+   content: '';
+
+   width: 100%;
+   position: absolute;
+   left: 0;
+   bottom: 1px;
+
+   border-width: 0 0 1px;
+   border-style: solid;
+} */
